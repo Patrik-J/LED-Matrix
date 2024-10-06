@@ -61,15 +61,20 @@ Here will be a list of the stuff I will have to buy:
 * [GPIO Expander and LED driver](https://www.berrybase.de/adafruit-aw9523-gpio-expander-und-led-treiber-breakout?c=2434)
 
 
-## Approximated total cost
-* 300 LEDs
-* 100 resistors
-* 2 microphones
-* 1 IR remote and receiver
-* 6m of cable
-* RTC module 
-* 2 GPIO Expander and LED driver
+## The stuff I bought for this project 
+* 3 Adafruit AW9523 GPIO Expanders and LED driver (total cost: 17.70 €)
+* 2 pin strips (total cost: 1.00 €)
+* 4 breadboards with 400 contacts each (total cost: 6.00 €)
+* 4 empty circuit boards (total cost: 4.40 €)
+* 2 3.3V/5V power supply modules for breadboards (total cost: 4.80 €)
+* 1 Raspberry Pi Pico 2 (total cost: 4.99 €)
+* 20 MOSFET 50V/0.22A/0.36W transistors (total cost: 1.12 €)
+* 2 Arduino IR Remote kits (total cost: 5.98 €)
+* 50 100Ω resistors 0.6W (total cost: 1.73 €)
+* 2 DS1307Z RTC chips (total cost: 1.80 €)
+* 2 Arduino MIC MODUL4 (total cost: 3.98 €)
+* 6 m of 10-pin cable (total cost: 8.99 €)
+* 1 multimeter (total cost: 13.98 €)
+* 300 multicolor LEDs (total cost: 19.77 €)
 
-==> approx. 50€ (without 3D printing material, stuff for soldering, etc.)
-
-
+TOTAL COST SO FAR: 96.24 €
